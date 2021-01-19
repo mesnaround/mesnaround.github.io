@@ -5,3 +5,6 @@
 # jekyll cache
 _site
 vendor
+
+# Helper post
+2020-12-08-welcome-to-jekyll.markdown

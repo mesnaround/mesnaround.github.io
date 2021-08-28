@@ -13,22 +13,17 @@ order: 4
 I'm a Big Data Engineer/Scientist by trade with a wide range of interests in tech and elsewhere. Here's just some of things I'm interested in.
 
 * Tech
-    * Data Science
-    * Cyber Security and Data Anonymization
+    * Data Science and Privacy
     * Free and Open Source Software (FOSS)
-    * Raspberry Pi
     * Scientific and Quantum Computing
 * Other
-    * Sports
+    * Staying Active
+    * Organic Gardening and Farming
+    * Animals
     * Music
     * Video Games
-    * Environment
-        * Land Conservation
-        * Ocean Cleanup
-        * Biodiversity
-        * Renewable Energy
-        * Recycling and Waste
-    * Physics
-        * Neutrino
-        * Cosmology
-        * Planetary
+    * Land and Ocean Conservation
+    * Biodiversity
+    * Renewable Energy
+    * Societal and Structrual Re-structuring
+    * Physics particulary Space and Neutrino

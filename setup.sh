@@ -19,7 +19,7 @@ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git theme
 
 
 # Init theme for site
-hugo mod init github.com/mesnaround/plugged-in-and-about
+hugo mod init github.com/mesnaround/mesnaround.github.io
 
 # Next declare the Console theme module as a dependency for your site.
 hugo mod get github.com/mrmierzejewski/hugo-theme-console

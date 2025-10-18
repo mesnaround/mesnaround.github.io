@@ -15,11 +15,14 @@ cd $site_name
 git init
 
 # Add theme within root of the site
-git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
+git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git themes/hugo-theme-console
 
 
 # Init theme for site
-hugo mod init github.com/my-username/my-new-site
+hugo mod init github.com/mesnaround/plugged-in-and-about
+
+# Next declare the Console theme module as a dependency for your site.
+hugo mod get github.com/mrmierzejewski/hugo-theme-console
 
 
 cat << EOF >> hugo.toml

@@ -120,4 +120,4 @@ Here is immediately shown the main problem sensors. All the `picow_sensor_bme68x
 
 ```
 
-I am going to stop here for the moment, but clearly there is some more optimizations to be done. I will continue to monitor this DB size in my Home Assistant dashboard. I guess it would be good to create an alert if it crosses a certain threshold (like 500MB) or if it changes by 50MB in 10 days or something.
+I am going to stop here for the moment, but clearly there is some more optimizations to be done. Some of the other custom sensors probably need tuning and better polling or disabling+automation may be the answer to that. I will continue to monitor this DB size in my Home Assistant dashboard. I guess it would be good to create an alert if it crosses a certain threshold (like 500MB) or if it changes by 50MB in 10 days or something.

@@ -1,6 +1,6 @@
 baseURL = 'https://mesnaround.github.io/'
 languageCode = 'en-us'
-title = 'Plugged in and About'
+title = 'Mark Schott: Off Hours'
 theme = "hugo-theme-console"
 
 [[module.imports]]

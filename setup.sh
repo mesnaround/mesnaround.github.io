@@ -2,7 +2,7 @@
 
 set -xve
 
-site_name='plugged_in_and_about'
+site_name='off_hours'
 
 # Install Hugo
 ## On Arch Linux
@@ -28,7 +28,7 @@ hugo mod get github.com/mrmierzejewski/hugo-theme-console
 cat << EOF >> hugo.toml
 baseURL = 'https://mesnaround.github.io/'
 languageCode = 'en-us'
-title = 'Plugged in and About'
+title = 'Mark Schott: Off Hours'
 theme = "hugo-theme-console"
 
 [[module.imports]]
